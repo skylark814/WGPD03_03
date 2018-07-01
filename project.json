@@ -16,7 +16,9 @@
         "src/app.js",
         "src/benson01.js",
         "src/benson02.js",
-        "src/benson03.js"
-
+        "src/benson03.js",
+        "src/benson04.js",
+        "src/benson05.js",
+        "src/benson06.js"
     ]
 }
